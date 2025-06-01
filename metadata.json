@@ -1,0 +1,9 @@
+{
+  "name": "WebFit Tracker",
+  "description": "A React-Native based application for health and fitness tracking, inspired by comprehensive mobile fitness apps. It includes user profiling, detailed food logging with manual and AI-assisted (text and image analysis via Gemini) entry, daily nutrition tracking, and an intermittent fasting timer. All data is stored locally on the device.",
+  "prompt": "",
+  "requestFramePermissions": [
+    "camera",
+    "healthkit"
+  ]
+}
